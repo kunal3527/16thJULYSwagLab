@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Taking wait of 10 ms.....]]>
+    </line>
+    <line>
+      <![CDATA[Reading Url from property File......]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is running]]>
+    </line>
+    <line>
+      <![CDATA[Reading UserId from property File......]]>
+    </line>
+    <line>
+      <![CDATA[Reading Password from property File......]]>
+    </line>
+    <line>
+      <![CDATA[valadating URL of Inventory page to redirect on it.........]]>
+    </line>
+    <line>
+      <![CDATA[Taking wait of 10 ms.....]]>
+    </line>
+    <line>
+      <![CDATA[Reading Url from property File......]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is running]]>
+    </line>
+    <line>
+      <![CDATA[Validating title....]]>
+    </line>
+    <line>
+      <![CDATA[Taking wait of 10 ms.....]]>
+    </line>
+    <line>
+      <![CDATA[Reading Url from property File......]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is running]]>
+    </line>
+    <line>
+      <![CDATA[Validating currunturl....]]>
+    </line>
+    <line>
+      <![CDATA[Taking wait of 10 ms.....]]>
+    </line>
+    <line>
+      <![CDATA[Reading Url from property File......]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is running]]>
+    </line>
+    <line>
+      <![CDATA[Validating loginlogo....]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-30T08:41:50 IST" name="Default suite" finished-at="2022-12-30T08:42:59 IST" duration-ms="69438">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T08:41:50 IST" name="Default test" finished-at="2022-12-30T08:42:59 IST" duration-ms="69438">
+      <class name="TestCasesofLoginpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:41:50 IST" name="setup" finished-at="2022-12-30T08:42:41 IST" duration-ms="51128" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Taking wait of 10 ms.....]]>
+            </line>
+            <line>
+              <![CDATA[Reading Url from property File......]]>
+            </line>
+            <line>
+              <![CDATA[Chrome is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="valiatingInventorypageURLTest()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:41 IST" name="valiatingInventorypageURLTest" finished-at="2022-12-30T08:42:42 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading UserId from property File......]]>
+            </line>
+            <line>
+              <![CDATA[Reading Password from property File......]]>
+            </line>
+            <line>
+              <![CDATA[valadating URL of Inventory page to redirect on it.........]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- valiatingInventorypageURLTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:42 IST" name="closebrowser" finished-at="2022-12-30T08:42:42 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:42 IST" name="setup" finished-at="2022-12-30T08:42:47 IST" duration-ms="4944" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Taking wait of 10 ms.....]]>
+            </line>
+            <line>
+              <![CDATA[Reading Url from property File......]]>
+            </line>
+            <line>
+              <![CDATA[Chrome is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTitleTest()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:47 IST" name="validateTitleTest" finished-at="2022-12-30T08:42:47 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating title....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:47 IST" name="closebrowser" finished-at="2022-12-30T08:42:47 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:47 IST" name="setup" finished-at="2022-12-30T08:42:52 IST" duration-ms="4857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Taking wait of 10 ms.....]]>
+            </line>
+            <line>
+              <![CDATA[Reading Url from property File......]]>
+            </line>
+            <line>
+              <![CDATA[Chrome is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateUrlTest()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:52 IST" name="validateUrlTest" finished-at="2022-12-30T08:42:52 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating currunturl....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUrlTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:52 IST" name="closebrowser" finished-at="2022-12-30T08:42:52 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:52 IST" name="setup" finished-at="2022-12-30T08:42:57 IST" duration-ms="5115" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Taking wait of 10 ms.....]]>
+            </line>
+            <line>
+              <![CDATA[Reading Url from property File......]]>
+            </line>
+            <line>
+              <![CDATA[Chrome is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatingloginlogoTest()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:57 IST" name="validatingloginlogoTest" finished-at="2022-12-30T08:42:59 IST" duration-ms="2180" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating loginlogo....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingloginlogoTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestCasesofLoginpage@6892b3b6]" started-at="2022-12-30T08:42:59 IST" name="closebrowser" finished-at="2022-12-30T08:42:59 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- TestCasesofLoginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
