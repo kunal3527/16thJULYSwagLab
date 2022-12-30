@@ -55,21 +55,23 @@ public class TestCasesofLoginpage extends SwagLab_base{
 	  Assert.assertEquals(actual, expected);
    }
    
-   @Test
+   @Test(enabled=false)
    public void validatingloginlogoTest() throws InterruptedException
    {   Thread.sleep(2000);
 	   boolean result = login.validateloginlogo();
 	   Assert.assertEquals(result, true);
    }
    
-   @Test
+   @Test(enabled=false)
    public void valiatingInventorypageURLTest() throws IOException
    {
 	   String act=login.procreedtoInventoryPage(Utilities.readpropertyfile("UserId"), Utilities.readpropertyfile("Password"));
 	   Assert.assertEquals(act, "https://www.saucedemo.com/inventory.html");
 	   
    }
-  
+   
+   
+ 
    @AfterMethod()
    public void closebrowser()
    
